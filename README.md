@@ -37,3 +37,9 @@ Recomended Node version 18.9.1
 
 <img width="1438" alt="Screen Shot 2022-10-20 at 22 15 12" src="https://user-images.githubusercontent.com/94662843/197103159-d6f77359-f3b6-444c-b6ab-3ca33cab2d6e.png">
 
+## GIF Use demo
+
+![Oct-20-2022 22-39-13](https://user-images.githubusercontent.com/94662843/197106408-070d853b-fc3d-4c22-b05a-6b0e07ae4145.gif)
+
+
+
