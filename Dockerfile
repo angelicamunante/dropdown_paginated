@@ -1,4 +1,4 @@
-FROM node:16.10 as build 
+FROM node:18.9.1 as build 
 
 
 WORKDIR /react-app
