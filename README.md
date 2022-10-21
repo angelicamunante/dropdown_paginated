@@ -39,7 +39,8 @@ Recomended Node version 18.9.1
 
 ## GIF Use demo
 
-![Oct-20-2022 22-39-13](https://user-images.githubusercontent.com/94662843/197106408-070d853b-fc3d-4c22-b05a-6b0e07ae4145.gif)
+![Oct-20-2022 22-48-11](https://user-images.githubusercontent.com/94662843/197107339-7c297f55-bfae-4f40-b5c1-7d5eee2edd08.gif)
+
 
 
 
